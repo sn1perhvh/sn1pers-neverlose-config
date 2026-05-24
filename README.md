@@ -1,2 +1,2 @@
 # sn1pers-neverlose-config
-This is a Legally dumped version of my Neverlose.cc config for csgo HvH
+This is my Neverlose.cc config and luas for csgo HvH
